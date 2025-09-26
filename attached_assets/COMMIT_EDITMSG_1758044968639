@@ -1,0 +1,8 @@
+Update connection status and improve mandala image rendering
+
+Update server routes to send connection status updates for NeuroSky, broadcast connection/disconnection events, and include a new mandala image.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: d9704938-5ec7-4733-875c-50b4857e6c73
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/7d0a6633-913b-48df-8b06-0fea0aa4ebe4/d9704938-5ec7-4733-875c-50b4857e6c73/xBHgAWg

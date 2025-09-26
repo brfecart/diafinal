@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 c6b4a068e64be0bd9d1a3660931fb8380b69ab64 Fashin1910 <pedro.goncalves4@edu.fecap.br> 1758042230 +0000	branch: Created from origin/main
+c6b4a068e64be0bd9d1a3660931fb8380b69ab64 c6b4a068e64be0bd9d1a3660931fb8380b69ab64 Fashin1910 <pedro.goncalves4@edu.fecap.br> 1758042230 +0000	checkout: moving from main to main
+c6b4a068e64be0bd9d1a3660931fb8380b69ab64 1020ba031f1ef31a1011d512f038fa5e65b90622 brcnp2025 <47673136-brcnp2025@users.noreply.replit.com> 1758042376 +0000	commit: Add configuration files for project setup and deployment
+1020ba031f1ef31a1011d512f038fa5e65b90622 da8878b12607892bcdf50c76a180f8750434fb69 brcnp2025 <47673136-brcnp2025@users.noreply.replit.com> 1758042475 +0000	commit: Add Spanish language support to the user interface
+da8878b12607892bcdf50c76a180f8750434fb69 407a790932b12e65a9241db3ed89a8848595bb28 brcnp2025 <47673136-brcnp2025@users.noreply.replit.com> 1758042747 +0000	commit: Update WebSocket host to use Replit domain for deployment
+407a790932b12e65a9241db3ed89a8848595bb28 c30a43ded05a958f69c81cebd7815c1447488b7f brcnp2025 <47673136-brcnp2025@users.noreply.replit.com> 1758042789 +0000	commit: Add comprehensive documentation for the biometric mandala application
+c30a43ded05a958f69c81cebd7815c1447488b7f 042442f7bedc808f63ab9554d664aa4cdf4b8212 brcnp2025 <47673136-brcnp2025@users.noreply.replit.com> 1758043347 +0000	commit: Enhance mandala generation with detailed neuroscience-informed prompts
+042442f7bedc808f63ab9554d664aa4cdf4b8212 78da8d0f2d2cba073b6c4ad73267f7c2ca57acb7 brcnp2025 <47673136-brcnp2025@users.noreply.replit.com> 1758044181 +0000	commit: Update connection status and improve mandala image rendering
